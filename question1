@@ -1,12 +1,6 @@
 {
   "questions": [
     {
-      "question": "What are popular JavaScript frameworks?",
-      "options": ["Angular", "React", "Svelte", "Vue", "Ember", "Backbone"],
-      "correctOptions": [1, 2, 3],
-      "points": 10
-    },
-    {
       "question": "Which is the most popular JavaScript framework?",
       "options": ["Angular", "React", "Svelte", "Vue"],
       "correctOption": 1,
