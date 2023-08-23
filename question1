@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "type": "multiple_choice",
+    "question": "What is the capital of France?",
+    "options": [
+      { "id": "a", "text": "Berlin" },
+      { "id": "b", "text": "London" },
+      { "id": "c", "text": "Paris" },
+      { "id": "d", "text": "Madrid" }
+    ],
+    "correctOptions": ["c"]
+  },
+  {
+    "id": 2,
+    "type": "multiple_response",
+    "question": "Which of the following are primary colors?",
+    "options": [
+      { "id": "a", "text": "Red" },
+      { "id": "b", "text": "Green" },
+      { "id": "c", "text": "Blue" },
+      { "id": "d", "text": "Yellow" },
+      { "id": "e", "text": "Purple" }
+    ],
+    "correctOptions": ["a", "c", "d"]
+  },
+  {
+    "id": 3,
+    "type": "multiple_choice",
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      { "id": "a", "text": "Venus" },
+      { "id": "b", "text": "Mars" },
+      { "id": "c", "text": "Jupiter" },
+      { "id": "d", "text": "Saturn" }
+    ],
+    "correctOptions": ["b"]
+  }
+]
